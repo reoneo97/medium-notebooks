@@ -1,3 +1,3 @@
-# understanding-regularisation
+# data-science-notebooks
 
-This repository contains the code for my medium article on regularisation
+This repository contains miscellaneous code blocks used for my medium articles 
